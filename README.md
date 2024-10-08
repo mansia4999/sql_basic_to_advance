@@ -4,6 +4,6 @@
  ### created walmart sales project using Sql
 
 
- ### USING EMPLOYEE DATA SETS CREATED SQL PROJECTS
+
 
  
